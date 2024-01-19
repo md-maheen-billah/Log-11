@@ -1,8 +1,8 @@
-# Log 11 (Duration: 6 Months)
+# Log 12 (Duration: 6 Months)
 
-Today, I was introduced to Tailwind, a CSS framework, and it has been a fantastic experience. I attempted to replicate a Figma file using the framework for practice purpose.
+Upon discovering Tailwind, a renowned CSS framework, I was introduced to DaisyUI, a library that simplifies design by offering templates for sections such as hero, navbar, footer etc. I incorporated DaisyUI into my practice project and concurrently utilized Tailwind for additional customization.
 
 
 ## Links
 
- - Practice task: https://md-maheen-billah.github.io/Log-11/
+ - Practice task: https://md-maheen-billah.github.io/Log-12/
